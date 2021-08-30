@@ -1,0 +1,60 @@
+Chan_4_prime1338_Chrono_0.6V_
+System: Windows64
+Software Version: Squidstat User Interface v2.11.19.2020
+
+Prime1338, Channel 1
+Firmware version: 2020 Oct 28 Prime 2.0 firmware
+Potentiostat Stability: Default Stability Range
+
+IR Drop Compensation: 
+Uncompensated Resistance: 0
+Compensation Level (0% - 100%): 0%
+
+Data Sampling Options: 
+Maximum data averaging period: 0.1 s
+Alpha-Factor:  75%
+Minimum number of cycles: 2
+Show data sampled during experiment "quiet times":  false
+Supplementary Notes
+Physical Parameters:
+Working Electrode Area (cm2): 14.52
+Working Electrode Mass (g): 
+Working Electrode Volume (cm3): 
+Electrolyte: 
+Electrolyte concentration (moles per liter): 
+Temperature (deg. C): 25
+Atmosphere: 
+
+Reference Electrode:
+Other Reference Electrode: 
+Working Electrode vs. NHE (V): .265
+
+Other Notes:
+
+
+
+Experiment Parameters:
+Loop 1 start, execute 30 time(s) total
+
+Loop 2 start, execute 10 time(s) total
+
+Step 1) Constant potential interval parameters
+Potential: 0.6 V, with respect to reference
+Duration: 96 hr
+Sampling interval
+60 seconds
+Execute 1 time(s)
+
+Step 2) Constant potential interval parameters
+Potential: 0.6 V, with respect to reference
+Duration: 96 hr
+Sampling interval
+60 seconds
+Execute 1 time(s)
+
+Loop 2 end
+
+Loop 1 end
+
+
+
