@@ -1,0 +1,12 @@
+"Step number","Step name","Elapsed Time (s)","Working Electrode (V)","Working Electrode vs. NHE (V)","Current (mA)","Current Density (mA/cm²)","Cumulative Charge (mAh)","Counter Electrode (V)"
+1_1,Constant Potential,60.0002,0.600305,0.600305,0.66586,0,0.0110977,-0.374139
+1_1,Constant Potential,120,0.600299,0.600299,0.611411,0,0.0217416,-0.359243
+1_1,Constant Potential,180,0.600283,0.600283,0.589463,0,0.0317489,-0.349864
+1_1,Constant Potential,240,0.600283,0.600283,0.574245,0,0.0414465,-0.343448
+1_1,Constant Potential,300,0.600289,0.600289,0.561549,0,0.0509114,-0.336516
+1_1,Constant Potential,360,0.600297,0.600297,0.554307,0,0.0602102,-0.333931
+1_1,Constant Potential,420,0.600257,0.600257,0.542673,0,0.0693517,-0.32712
+1_1,Constant Potential,480,0.60026,0.60026,0.534197,0,0.0783257,-0.322738
+1_1,Constant Potential,540,0.600273,0.600273,0.530751,0,0.0872002,-0.321569
+1_1,Constant Potential,600,0.600289,0.600289,0.525347,0,0.096001,-0.318679
+1_1,Constant Potential,660,0.600269,0.600269,0.519314,0,0.104707,-0.31514
